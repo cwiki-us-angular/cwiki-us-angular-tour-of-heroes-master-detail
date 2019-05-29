@@ -6,7 +6,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Could not find module "@angular-devkit/build-angular" Error
 
-Run ` yarn install` or `npm install` to install this module
+Run `yarn install` or `npm install` to install this module
 
 ## Build
 
