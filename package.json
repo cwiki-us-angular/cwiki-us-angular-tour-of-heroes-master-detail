@@ -1,19 +1,7 @@
 {
   "name": "cwiki-us-angular-tour-of-hero-master-detail",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "private": true,
-  "description": "Example project from an angular.io guide.",
-  "scripts": {
-    "lint": "ng lint",
-    "start": "ng serve",
-    "test": "ng test",
-    "build": "ng build --prod",
-    "e2e": "ng e2e",
-    "ng": "ng"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "rxjs": "6.5.2",
     "core-js": "2.6.9",
@@ -31,6 +19,14 @@
     "@angular/platform-browser": "7.2.15",
     "angular-in-memory-web-api": "0.6.1",
     "@angular/platform-browser-dynamic": "7.2.15"
+  },
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.10.0",
