@@ -2,6 +2,7 @@
   "name": "cwiki-us-angular-tour-of-hero-master-detail",
   "version": "1.0.0",
   "private": true,
+  "description": "Example project from an angular.io guide.",
   "dependencies": {
     "rxjs": "6.5.2",
     "core-js": "2.6.9",
