@@ -1,5 +1,5 @@
 {
-  "name": "angular-io-example",
+  "name": "cwiki-us-angular-tour-of-hero-master-detail",
   "version": "1.0.0",
   "private": true,
   "description": "Example project from an angular.io guide.",
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "MIT"
   "dependencies": {
     "@angular/animations": "^7.1.0",
     "@angular/common": "^7.1.0",
